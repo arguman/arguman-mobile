@@ -6,5 +6,3 @@ Optimized for mobile browsers and I strongly recommend to use “add to home scr
 
 ![demo](https://raw.githubusercontent.com/arguman/arguman-mobile/master/static/arguman-demo.gif)
 
-<https://m.arguman.org>
-
